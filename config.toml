@@ -1,0 +1,4 @@
+baseURL = "https://oxddr.github.com/pamperki.me"
+languageCode = "en-us"
+title = "Pamperki"
+theme = "hugo-nederburg-theme"
