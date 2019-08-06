@@ -1,4 +1,4 @@
-baseURL = "https://oxddr.github.com/pamperki.me"
+baseURL = "https://oxddr.github.io/pamperki.me"
 languageCode = "en-us"
 title = "Pamperki"
 theme = "hugo-nederburg-theme"
