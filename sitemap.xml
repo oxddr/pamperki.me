@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pamperki.me/about/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pamperki.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pamperki.me/</loc>
-    <priority>0</priority>
+    <loc>https://pamperki.me/contact/</loc>
   </url>
   
   <url>
