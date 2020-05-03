@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pamperki</title>
-    <link>https://pamperki.me/</link>
-    <description>Recent content on Pamperki</description>
+    <title>Collections on Pamperki</title>
+    <link>https://pamperki.me/collection/</link>
+    <description>Recent content in Collections on Pamperki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pamperki.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pamperki.me/collection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,15 +36,6 @@ Mierce Miniatures, 3D prints of Duncan Shadow sculpts and other.&lt;/p&gt;</desc
       
       <guid>https://pamperki.me/collection/bretonnia/</guid>
       <description>in progress</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://pamperki.me/about/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pamperki.me/about/</guid>
-      <description>&amp;hellip;</description>
     </item>
     
   </channel>

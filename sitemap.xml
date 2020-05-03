@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pamperki.me/collection/nightstalkers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/collection/empire/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/collection/bretonnia/</loc>
+  </url>
+  
+  <url>
     <loc>https://pamperki.me/about/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +26,10 @@
   
   <url>
     <loc>https://pamperki.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/collection/</loc>
   </url>
   
   <url>
