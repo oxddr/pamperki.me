@@ -1,0 +1,64 @@
+{{ define "body" }}
+  <body class="home blog ct-body standard">
+{{ end }}
+
+{{ define "main" }}
+  <div class="archive-header">
+    <h1>
+      {{ if .Site.Params.social.rss }}
+        <a href="{{ .RSSLink }}" data-animate-hover="pulse" class="in-page-rss" target="_blank">
+          <i class="fas fa-rss" title="rss"></i>
+          <span class="screen-reader-text">rss</span>
+        </a>
+      {{ end }}
+    </h1>
+  </div>
+
+  <h1 class="screen-reader-text">Posts</h1>
+  <div id="loop-container" class="loop-container">
+    {{ range $index, $element := (where .Data.Pages "Section" "collection").ByWeight }}
+
+      {{ $scratch := newScratch }}
+      {{ if and (isset .Params "image") .Params.image }}
+        {{ if eq (mod $index 2) 0 }}
+          {{ $scratch.Set "extraPostClass" "has-post-thumbnail category-design tag-memories tag-normal-post tag-standard-2 odd" }}
+        {{ else }}
+          {{ $scratch.Set "extraPostClass" "has-post-thumbnail category-design tag-memories tag-normal-post tag-standard-2 even" }}
+        {{ end }}
+      {{ else }}
+        {{ $scratch.Set "extraPostClass" "category-travel full-without-featured odd" }}
+      {{ end }}
+      <div class="post type-post status-publish format-standard hentry category-standard excerpt zoom excerpt {{ $scratch.Get "extraPostClass" }}">
+
+        {{ if and (isset .Params "image") .Params.image }}
+	  <a class="featured-image-link" href="{{ .Permalink }}">
+            <div class='featured-image lazy lazy-bg-image' data-background="{{ .Params.image | absURL }}"></div>
+          </a>
+        {{ end }}
+
+        <div class="excerpt-container">
+	  <div class="excerpt-meta">
+	    {{ range .Params.categories }}
+	      <span> / </span>
+	      <span class="category">
+	        <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+	      </span>
+	    {{ end }}
+	  </div>
+	  <div class='excerpt-header'>
+	    <h2 class='excerpt-title'>
+	      <a href="{{ .Permalink }} "> {{ .Title }} </a>
+	    </h2>
+	  </div>
+	  <div class='excerpt-content'>
+	    <article>
+	      {{ .Summary }}
+
+	      <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Read the post<span class="screen-reader-text">This is a Standard Post</span></a></div>
+	    </article>
+	  </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

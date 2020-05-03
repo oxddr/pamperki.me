@@ -25,3 +25,8 @@ theme = "hugo-nederburg-theme"
   name = "Blog"
   url = "/"
   weight = 1
+
+  [[menu.main]]
+  name = "My collection"
+  url = "/collection/"
+  weight = 2

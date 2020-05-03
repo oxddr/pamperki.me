@@ -16,11 +16,17 @@ article, .site-description {
     font-family: 'Average', serif;
 }
 
-.ox-hugo-table {
+.hscroll-table {
     display: block;
     overflow-x: auto;
     white-space: nowrap;
+}
 
+.hscroll-table img {
     max-height: 300px;
     max-width: 300px;
+}
+
+article img {
+    max-width: 100%;
 }
