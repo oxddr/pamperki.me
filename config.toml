@@ -1,4 +1,27 @@
-baseURL = "https://oxddr.github.io/pamperki.me"
-languageCode = "en-us"
+baseURL = "https://pamperki.me"
+languageCode = "en"
 title = "Pamperki"
 theme = "hugo-nederburg-theme"
+
+[params]
+  # Unmark to use post folder for images. Default is static folder.
+  # usepostimgfolder = true
+
+  # TODO(oxddr): fill it
+  slogan = ""
+  # TODO(oxddr): fill it
+  description = ""
+  author = "ddr"
+  copyright = [
+    "&copy; 2019 oxddr",
+    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
+    "A port of Tracks by Compete Themes."
+  ]
+
+  [params.social]
+  rss = true
+
+  [[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 1
