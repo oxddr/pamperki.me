@@ -8,10 +8,19 @@
 
 }
 
-h1, h2, h3, h4, h5, h6, .site-title {
+h1, h2, h3, h4, h5, h6, .site-title, .menu {
     font-family: "caslon_antique", sans-serif;
 }
 
-article {
+article, .site-description {
     font-family: 'Average', serif;
+}
+
+.ox-hugo-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+
+    max-height: 300px;
+    max-width: 300px;
 }
