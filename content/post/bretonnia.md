@@ -1,8 +1,6 @@
 +++
 title = "Bretonnia"
 author = ["oxddr"]
-date = 2020-05-01
-lastmod = 2020-06-30T22:52:43+02:00
 tags = ["warhammer", "bretonnia"]
 categories = ["collection"]
 draft = true

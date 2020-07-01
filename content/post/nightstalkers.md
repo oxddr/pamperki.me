@@ -2,10 +2,9 @@
 title = "Nightstalkers"
 author = ["oxddr"]
 date = 2020-05-01
-lastmod = 2020-06-30T22:52:43+02:00
 tags = ["nightstalkers", "mantic", "kingsofwar"]
 categories = ["collection"]
-draft = false
+draft = true
 weight = 1
 image = "https://s3-eu-west-2.amazonaws.com/mantic-assets/uploads/2019/07/KoW_Nightstalker-Mega-Army-colour-shot_WEB.jpg"
 +++
@@ -18,7 +17,7 @@ Nighthaunt, Mierce Miniatures, 3D prints of Duncan Shadow sculpts and other.
 {{< load-photoswipe >}}
 
 
-## Infantry, Heavy Infantry and Large Infantry {#infantry-heavy-infantry-and-large-infantry}
+## Infantry (incl. Heavy and Large) {#infantry--incl-dot-heavy-and-large}
 
 
 ### Reapers {#reapers}
