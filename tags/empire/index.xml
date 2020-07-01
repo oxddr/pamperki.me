@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pamperki</title>
-    <link>https://pamperki.me/</link>
-    <description>Recent content on Pamperki</description>
+    <title>empire on Pamperki</title>
+    <link>https://pamperki.me/tags/empire/</link>
+    <description>Recent content in empire on Pamperki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://pamperki.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pamperki.me/tags/empire/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,15 +32,6 @@ manufacturers in the future, that fit the ascetics of Empire.&lt;/p&gt;</descrip
       <description>&lt;p&gt;First post! For now I am planning to mostly use this blog/web-site to keep track of my miniature
 collection. Over years I&amp;rsquo;ve collected hundreds of miniatures and I&amp;rsquo;ve started to slowly loose
 track of what I actually have. So let&amp;rsquo;s start with a new addition t my collection&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://pamperki.me/about/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pamperki.me/about/</guid>
-      <description>&amp;hellip;</description>
     </item>
     
   </channel>

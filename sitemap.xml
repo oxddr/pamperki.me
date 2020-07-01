@@ -3,15 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pamperki.me/collection/nightstalkers/</loc>
+    <loc>https://pamperki.me/post/empire/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pamperki.me/collection/empire/</loc>
+    <loc>https://pamperki.me/categories/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pamperki.me/collection/bretonnia/</loc>
+    <loc>https://pamperki.me/categories/collection/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/empire/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/gw/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/post/new-empire-minis-arrived/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/post/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/purchase/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/warhammer/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -20,24 +63,7 @@
   </url>
   
   <url>
-    <loc>https://pamperki.me/</loc>
-    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/collection/</loc>
-  </url>
-  
-  <url>
     <loc>https://pamperki.me/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/</loc>
   </url>
   
 </urlset>

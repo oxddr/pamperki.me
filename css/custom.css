@@ -16,17 +16,25 @@ article, .site-description {
     font-family: 'Average', serif;
 }
 
-.hscroll-table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
+table.collection-table {
+    table-layout:fixed;
+}
+.collection-table table td, table td * {
+    vertical-align: top;
 }
 
-.hscroll-table img {
-    max-height: 300px;
-    max-width: 300px;
+.collection-table th:nth-child(1) {
+    width: 40%;
+}
+
+.collection-table th:nth-child(2) {
+    width: 30%;
 }
 
 article img {
     max-width: 100%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

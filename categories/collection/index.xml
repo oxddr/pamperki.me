@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collection on Pamperki</title>
+    <link>https://pamperki.me/categories/collection/</link>
+    <description>Recent content in collection on Pamperki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://pamperki.me/categories/collection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empire</title>
+      <link>https://pamperki.me/post/empire/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://pamperki.me/post/empire/</guid>
+      <description>&lt;p&gt;My collection of miniatures for Warhammer Empire army. I&amp;rsquo;ve started to gather them in mid-school,
+over 15 years ago. I still hope to paint all of them at some point. Most of miniatures are
+produces by Games Workshop/Citadel. However I planning to add miniatures from other
+manufacturers in the future, that fit the ascetics of Empire.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
