@@ -8,7 +8,7 @@ draft = false
 
 First post! For now I am planning to mostly use this blog/web-site to keep track of my miniature
 collection. Over years I've collected hundreds of miniatures and I've started to slowly loose
-track of what I actually have. So let's start with a new addition t my collection...
+track of what I actually have. So let's start with a new addition to my collection...
 
 <!--more-->
 
