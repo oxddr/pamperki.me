@@ -19,8 +19,16 @@ article, .site-description {
 table.collection-table {
     table-layout:fixed;
 }
-.collection-table table td, table td * {
+
+.collection-table table {
+    width: 100%;
+}
+
+.collection-table th, td {
+    border: 0px;
+    border-bottom: 1px solid #ddd;
     vertical-align: top;
+    text-align: center;
 }
 
 .collection-table th:nth-child(1) {
