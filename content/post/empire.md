@@ -1,6 +1,6 @@
 +++
 title = "Empire"
-author = ["oxddr"]
+author = ["ddr"]
 date = 2020-06-30
 tags = ["warhammer", "empire", "gw"]
 categories = ["collections"]

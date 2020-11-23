@@ -1,6 +1,6 @@
 +++
 title = "New Empire minis arrived!"
-author = ["oxddr"]
+author = ["ddr"]
 date = 2020-06-30
 tags = ["purchase", "empire"]
 draft = false
