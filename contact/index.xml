@@ -5,10 +5,6 @@
     <link>https://pamperki.me/contact/</link>
     <description>Recent content in Get in touch on Pamperki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://pamperki.me/contact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://pamperki.me/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
