@@ -3,6 +3,8 @@ languageCode = "en"
 title = "Pamperki"
 theme = "hugo-nederburg-theme"
 
+disqusShortname = "pamperki"
+
 [params]
   # Unmark to use post folder for images. Default is static folder.
   # usepostimgfolder = true
