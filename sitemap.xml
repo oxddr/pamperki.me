@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,37 +8,12 @@
   </url>
   
   <url>
-    <loc>https://pamperki.me/tags/kingsofwar/</loc>
-    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/nightstalkers/</loc>
-    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/paintlog/</loc>
-    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
+    <loc>https://pamperki.me/post/paintlog-tydzien3/</loc>
+    <lastmod>2020-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://pamperki.me/post/paintlog-tydzien2/</loc>
-    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/</loc>
-    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/post/</loc>
-    <lastmod>2020-12-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/</loc>
     <lastmod>2020-12-07T00:00:00+01:00</lastmod>
   </url>
   
@@ -53,37 +28,7 @@
   </url>
   
   <url>
-    <loc>https://pamperki.me/categories/</loc>
-    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/categories/collections/</loc>
-    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/empire/</loc>
-    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/gw/</loc>
-    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pamperki.me/post/new-empire-minis-arrived/</loc>
-    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/purchase/</loc>
-    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pamperki.me/tags/warhammer/</loc>
     <lastmod>2020-06-30T00:00:00+02:00</lastmod>
   </url>
   
@@ -93,7 +38,90 @@
   </url>
   
   <url>
+    <loc>https://pamperki.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/categories/collections/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/empire/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pamperki.me/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/gw/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/kingsofwar/</loc>
+    <lastmod>2020-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/nighthaunt/</loc>
+    <lastmod>2020-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/nightstalkers/</loc>
+    <lastmod>2020-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/paintlog/</loc>
+    <lastmod>2020-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/post/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/purchase/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/vanguard/</loc>
+    <lastmod>2020-12-14T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pamperki.me/tags/warhammer/</loc>
+    <lastmod>2020-06-30T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

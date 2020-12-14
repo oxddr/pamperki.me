@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paintlog on Pamperki</title>
-    <link>https://pamperki.me/tags/paintlog/</link>
-    <description>Recent content in Paintlog on Pamperki</description>
+    <title>Nighthaunt on Pamperki</title>
+    <link>https://pamperki.me/tags/nighthaunt/</link>
+    <description>Recent content in Nighthaunt on Pamperki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://pamperki.me/tags/paintlog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pamperki.me/tags/nighthaunt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,15 +36,6 @@
       
       <guid>https://pamperki.me/post/paintlog-tydzien1/</guid>
       <description>&lt;p&gt;Pierwszy tydzień wyzwania zakończony sukcesem.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Paintlog - intro</title>
-      <link>https://pamperki.me/post/paintlog-intro/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://pamperki.me/post/paintlog-intro/</guid>
-      <description>&lt;p&gt;Wraz z Maćkiem podejmumy malarskie wyzwanie.&lt;/p&gt;</description>
     </item>
     
   </channel>

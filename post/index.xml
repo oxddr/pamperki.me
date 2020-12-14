@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pamperki</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Posts on Pamperki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://pamperki.me/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://pamperki.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Empire</title>
       <link>https://pamperki.me/post/empire/</link>
@@ -17,6 +21,15 @@
 over 15 years ago. I still hope to paint all of them at some point. Most of miniatures are
 produces by Games Workshop/Citadel. However I planning to add miniatures from other
 manufacturers in the future, that fit the ascetics of Empire.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paintlog - tydzien III</title>
+      <link>https://pamperki.me/post/paintlog-tydzien3/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://pamperki.me/post/paintlog-tydzien3/</guid>
+      <description>&lt;p&gt;Banda do &lt;em&gt;Vanguarda&lt;/em&gt; i bohaterowie.&lt;/p&gt;</description>
     </item>
     
     <item>
