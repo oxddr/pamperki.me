@@ -12,6 +12,7 @@ remove-exif:
 
 init:
 	git submodule update --init --recursive
+	git worktree add -B gh-pages public origin/gh-pages
 
 dev:
 	hugo server --bind 0.0.0.0
