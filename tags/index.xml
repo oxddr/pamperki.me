@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pamperki</title>
@@ -6,13 +6,45 @@
     <description>Recent content in Tags on Pamperki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://pamperki.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://pamperki.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>paintlog</title>
+      <link>https://pamperki.me/tags/paintlog/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://pamperki.me/tags/paintlog/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Empire</title>
+      <title>workshop</title>
+      <link>https://pamperki.me/tags/workshop/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://pamperki.me/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kingsofwar</title>
+      <link>https://pamperki.me/tags/kingsofwar/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://pamperki.me/tags/kingsofwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nightstalkers</title>
+      <link>https://pamperki.me/tags/nightstalkers/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://pamperki.me/tags/nightstalkers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>empire</title>
       <link>https://pamperki.me/tags/empire/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
       
@@ -21,7 +53,7 @@
     </item>
     
     <item>
-      <title>Gw</title>
+      <title>gw</title>
       <link>https://pamperki.me/tags/gw/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
       
@@ -30,43 +62,7 @@
     </item>
     
     <item>
-      <title>Kingsofwar</title>
-      <link>https://pamperki.me/tags/kingsofwar/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://pamperki.me/tags/kingsofwar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nighthaunt</title>
-      <link>https://pamperki.me/tags/nighthaunt/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://pamperki.me/tags/nighthaunt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nightstalkers</title>
-      <link>https://pamperki.me/tags/nightstalkers/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://pamperki.me/tags/nightstalkers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paintlog</title>
-      <link>https://pamperki.me/tags/paintlog/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://pamperki.me/tags/paintlog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Purchase</title>
+      <title>purchase</title>
       <link>https://pamperki.me/tags/purchase/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
       
@@ -75,16 +71,7 @@
     </item>
     
     <item>
-      <title>Vanguard</title>
-      <link>https://pamperki.me/tags/vanguard/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://pamperki.me/tags/vanguard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Warhammer</title>
+      <title>warhammer</title>
       <link>https://pamperki.me/tags/warhammer/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
       
